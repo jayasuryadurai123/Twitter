@@ -21,7 +21,7 @@ const Signup = () => {
     const submitHandler = (e) =>{
         e.preventDefault();
         const url="";
-        // axios.post("",newData)
+        // axios.post("",data)
         // .then(response=>{
         //     console.log(response)
         // })

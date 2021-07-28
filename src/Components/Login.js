@@ -17,7 +17,7 @@ const Login = () => {
     }
     const submitHandler = (e)=>{
         e.preventDefault();
-        // axios.get("",newData)
+        // axios.get("",data)
         // .then(data=>{
         //     console.log(data)
         // })
